@@ -2,12 +2,12 @@
    Workshop
 </h1>
 
-<h1>
+<h1 align="center">
     <img src="public/wp.JPG">
 </h1>
 
 <h3 align="center">
-    <a href=""
+    <a href="https://workshopecommerce.netlify.app/"
     >Acessar a demonstração</a>
 <h3 >
 
@@ -27,9 +27,9 @@ O projeto **Workshop** é um e-commerce que foi criado como desafio no **Hiring 
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-- [Html]
-- [CSS]
-- [JavaScript]
+- Html
+- CSS
+- JavaScript
 
 ---
 
@@ -38,7 +38,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone
+    $ git clone https://github.com/heyv/workshop.git
 
     # Entrar no diretório
     $ Abrir index
